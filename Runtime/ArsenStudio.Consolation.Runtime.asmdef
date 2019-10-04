@@ -1,0 +1,9 @@
+{
+    "name": "ArsenStudio.Consolation.Runtime",
+    "references": [
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true
+}

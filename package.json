@@ -1,0 +1,8 @@
+{
+  "name": "com.arsenstudio.consolation",
+  "version": "1.0.1",
+  "displayName": "Consolation",
+  "unity": "2018.1",
+  "dependencies": {
+  }
+}
